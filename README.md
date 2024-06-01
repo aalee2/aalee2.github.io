@@ -8,41 +8,38 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Esthief
 
 **Web:**   https://    (url github.io)
 
 **Github:** https://    (url https://github.com/.... )
 
-**Autor:**  (Nombre apellidos)
+**Autor:** Alejandra De La Torre Moreno
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : es un juego en el que un mapache furioso roba materiales de bellas artes 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  click and point
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px fit
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  googlechrome
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 41,4MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 01/06/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+En la introducción el mapache busca en la basura materiales pero se cabrea por no encontrar ninguno y empieza a robar 
+Entra en la facultad de Bellas Artes y recorre los pasillos y las aulas rcolectando objetos
+El juego termina cuando recoge todos los objetos 
 
 ### 2.2. Esquema de navegación 
 
