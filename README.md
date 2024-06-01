@@ -44,9 +44,7 @@ El juego termina cuando recoge todos los objetos
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![esquema](https://github.com/adltr/adltr.github.io/blob/main/logotipo.PNG)
 
 ### Etapa 1: Ideación de proyecto
 
