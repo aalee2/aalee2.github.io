@@ -44,7 +44,7 @@ El juego termina cuando recoge todos los objetos
 ### 2.2. Esquema de navegación 
 
 
-![esquema](https://github.com/adltr/adltr.github.io/blob/main/logotipo.PNG)
+![esquema](https://github.com/aalee2/aalee2.github.io/blob/main/esquema.drawio.png)
 
 ### Etapa 1: Ideación de proyecto
 
