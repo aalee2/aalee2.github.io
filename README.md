@@ -10,9 +10,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Esthief
 
-**Web:**   https://    (url github.io)
+**Web:**  https://aalee2.github.io/
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://github.com/aalee2/aalee2.github.io
 
 **Autor:** Alejandra De La Torre Moreno
 
@@ -32,14 +32,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** 
 
-- Github:
+- Github:https://github.com/aalee2
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-En la introducción el mapache busca en la basura materiales pero se cabrea por no encontrar ninguno y empieza a robar 
-Entra en la facultad de Bellas Artes y recorre los pasillos y las aulas rcolectando objetos
-El juego termina cuando recoge todos los objetos 
+En la introducción el mapache busca en la basura materiales pero se cabrea por no encontrar ninguno y empieza a robar.
+Entra en la facultad de Bellas Artes y recorre los pasillos y las aulas rcolectando objetos.
+El juego termina cuando recoge todos los objetos.
 
 ### 2.2. Esquema de navegación 
 
@@ -50,46 +50,50 @@ El juego termina cuando recoge todos los objetos
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te mete en el papel de un ladrón, aun sabiendo que está mal, te entretiene rebuscar objetos.
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a personas de entre 8 y 80 años
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego:
+- He incluido condicionales para crear el Drag & Drop
+- Funciones IntersectanBoxes para el recuento de los objetos
+- Un contador de objetos
+- 
+- Video: descargado de youtube
+
+- Menús y elementos de navegación:
+- Incluye flechas que te llevan de una escena a otra
 
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+- Los problemas principales se dieron en la base de la programación al intentar un IncludeBox que no llegó a funcionar, Ha sido cambiado por un IntersectanBoxes para la función del contador.
+- Problemas a lo largo del desarrollo del juego han dado las funciones del Drag&Drop, el peso del archivo por el tamaño de las imágenes y el texto de recuento, todos ellos han sido solucionados en la medida de lo posible.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+He hecho un gran avance desde el comienzo de semestre ya que no hubiera sido siquiera capaz de hacer este documento, he creado un juego a base de ensayo error, y ha habido muchos, pero me quedo con lo aprendido y lo guardo con orgullo.
 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: pixabay
+* Imágenes: internet 
+* objetos dibujados a mano
+* Tipografía: illustrator
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
-Mayo 2024
+
+Junio 2024
